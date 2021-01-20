@@ -1,0 +1,11 @@
+C:\Users\flips\source\repos\SeedData\bin\Debug\netcoreapp3.1\SeedData.exe
+C:\Users\flips\source\repos\SeedData\bin\Debug\netcoreapp3.1\SeedData.deps.json
+C:\Users\flips\source\repos\SeedData\bin\Debug\netcoreapp3.1\SeedData.runtimeconfig.json
+C:\Users\flips\source\repos\SeedData\bin\Debug\netcoreapp3.1\SeedData.runtimeconfig.dev.json
+C:\Users\flips\source\repos\SeedData\bin\Debug\netcoreapp3.1\SeedData.dll
+C:\Users\flips\source\repos\SeedData\bin\Debug\netcoreapp3.1\SeedData.pdb
+C:\Users\flips\source\repos\SeedData\obj\Debug\netcoreapp3.1\SeedData.csprojAssemblyReference.cache
+C:\Users\flips\source\repos\SeedData\obj\Debug\netcoreapp3.1\SeedData.AssemblyInfoInputs.cache
+C:\Users\flips\source\repos\SeedData\obj\Debug\netcoreapp3.1\SeedData.AssemblyInfo.cs
+C:\Users\flips\source\repos\SeedData\obj\Debug\netcoreapp3.1\SeedData.dll
+C:\Users\flips\source\repos\SeedData\obj\Debug\netcoreapp3.1\SeedData.pdb

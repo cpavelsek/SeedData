@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\flips\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\flips\\.nuget\\packages"
+    ]
+  }
+}
